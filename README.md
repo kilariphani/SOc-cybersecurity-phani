@@ -21,4 +21,7 @@ Alert generated: Possible Data Exfiltration
 Simulated user privilege change to admin/root access
 System logs captured privilege change event
 SIEM detected abnormal access behavior
-Alert generated: Privilege Escalation Attempt
+Alert generated: Privilege Escalation Attemp
+
+SPLUNK 
+https://documents.softmania.in/external/manual/grad2it-user-guide/article/project-1-user-guide?p=8925397ddf335351a1488377eefdb7c543c3b15a959b1c04855e44fce67ea261#_Tocelvl9b00m37c
